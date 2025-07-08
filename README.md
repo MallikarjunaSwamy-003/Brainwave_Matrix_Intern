@@ -1,15 +1,11 @@
-# 🏧 Python ATM Interface
-A simple and secure console-based ATM interface built using Python.
-## 🚀 Features
-- ✅ PIN authentication
-- 💰 Check balance
-- 📥 Deposit money
-- 💸 Withdraw money
-- 🧾 View transaction history
-- 🔐 3 attempts for PIN entry
-- 🛑 Secure exit after failed attempts
+Brainwave Matrix Solution Internship Python Projects Repository
 
-## 🛠️ Tech Stack
-- Python 3
-- Console UI
-- `getpass` for PIN security
+This repository contains multiple individual coding tasks and projects implemented in Python. Each task is organized in its own folder with source code and instructions.
+
+---
+
+## 📁 Tasks Included
+### 🏧 1. ATM Interface (Python)
+- Console-based ATM simulator
+- Features: PIN authentication, deposit, withdraw, history
+- Language: Python
