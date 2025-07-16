@@ -9,3 +9,8 @@ This repository contains multiple individual coding tasks and projects implement
 - Console-based ATM simulator
 - Features: PIN authentication, deposit, withdraw, history
 - Language: Python
+
+### 🗃️ 2. Inventory Management System (GUI)
+- 📄 **Description**: GUI-based inventory management system using Tkinter  
+- 🔐 **Features**: User login/register, add/edit/delete products, low stock alerts, sales summary  
+- 🖥️ **Language**: Python with Tkinter  
